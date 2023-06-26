@@ -1,0 +1,28 @@
+h1, h2, h3, h4 {
+    color: white;
+  }
+  body {
+    font-size: 14px;
+}
+p {
+  color: white;
+}
+ol {
+  color: white;
+}
+ a { 
+  color: blue; 
+  font-family: sans-serif; font-style: italic;
+}
+body {
+  background-color: rgb(1, 1, 2);
+}
+h1 {
+font-weight: bolder; font-size: xx-large;
+}
+h2 {
+  font-weight: bolder; font-size: x-large;
+}
+h3, h4 {
+  font-weight: bold; font-size: larger;
+}
